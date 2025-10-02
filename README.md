@@ -4,11 +4,18 @@
 
 🧑‍🎓 I'm also a university student in my free time, actually pursuing a Master's degree in Data Science @ UniVR. I like the world of data, in particular all the processes leading to the extraction, from raw sources, of meaningful information
 
-🛠️ My tech toolkit includes JavaScript, VueJS, Vuex/Pinia and Cypress. I like working in Agile environments, emphasizing unwavering quality.
+🛠️ My tech toolkit includes JavaScript, TypeScript, VueJS, Vuex/Pinia and Cypress. I like working in Agile environments, emphasizing unwavering quality.
 
 🌱 I am currently learning a bit of C#, to better understand the whole software development lifecycle. Furthermore, I am leaning towards Python for the data management and engineering tasks
 
 📬 How to reach me: **[LinkedIn](https://www.linkedin.com/in/samantha-vanini/)**
+
+### Open source contributions
+
+During my years as Front-end developer, I contributed to the following projects, with the goal to improve my skills and test my knowledge of a uniquely challenging topic - UI accessibility - and practise a bit more in TypeScript
+
+- [Quasar Framework](https://github.com/quasarframework/quasar)
+- [PrimeVue](https://github.com/primefaces/primevue)
 
 ### A bit of stats about me (Speaking of data...)
 
