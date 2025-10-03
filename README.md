@@ -2,7 +2,7 @@
 
 🧑‍💻 I am a Software Engineer experienced in Front-end development, with the right thirst for knowledge to know better the dark side of the web, aka Back-end
 
-🧑‍🎓 I'm also a university student in my free time, actually pursuing a Master's degree in Data Science @ UniVR. I like the world of data, in particular all the processes leading to the extraction, from raw sources, of meaningful information
+🧑‍🎓 I'm also an university student in my free time, actually pursuing a Master's degree in Data Science @ UniVR. I like the world of data, in particular all the processes leading to the extraction, from raw sources, of meaningful information
 
 🛠️ My tech toolkit includes JavaScript, TypeScript, VueJS, Vuex/Pinia and Cypress. I like working in Agile environments, emphasizing unwavering quality.
 
